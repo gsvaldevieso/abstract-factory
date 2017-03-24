@@ -1,0 +1,5 @@
+/home/valdevieso/design patterns/AbstractFactory-DP001/AbstractFactory-DP001/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/valdevieso/design patterns/AbstractFactory-DP001/AbstractFactory-DP001/bin/Debug/AbstractFactory-DP001.exe.mdb
+/home/valdevieso/design patterns/AbstractFactory-DP001/AbstractFactory-DP001/bin/Debug/AbstractFactory-DP001.exe
+/home/valdevieso/design patterns/AbstractFactory-DP001/AbstractFactory-DP001/obj/x86/Debug/AbstractFactory-DP001.exe
+/home/valdevieso/design patterns/AbstractFactory-DP001/AbstractFactory-DP001/obj/x86/Debug/AbstractFactory-DP001.exe.mdb
